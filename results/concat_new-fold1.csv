@@ -1,0 +1,2 @@
+correct_covid,wrong_covid,not_detected_covid,correct_pneu,wrong_pneu,not_detected_pneu,correct_normal,wrong_normal,not_detected_normal,covid_num,pneu_num,normal_num,tp,fp,wrong_covid_normal,wrong_covid_pneu,wrong_pneu_covid,wrong_pneu_normal,wrong_normal_pneu,wrong_normal_covid
+44,36,1,2243,369,177,4479,163,390,45,2420,4869,6766,568,1,0,15,162,369,21

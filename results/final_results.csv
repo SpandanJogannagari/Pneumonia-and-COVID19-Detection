@@ -1,0 +1,7 @@
+name,correct_covid,wrong_covid,not_detected_covid,correct_pneu,wrong_pneu,not_detected_pneu,correct_normal,wrong_normal,not_detected_normal,covid_num,pneu_num,normal_num,tp,fp,wrong_covid_normal,wrong_covid_pneu,wrong_pneu_covid,wrong_pneu_normal,wrong_normal_pneu,wrong_normal_covid
+CNN,37,183,8,1845,316,575,4455,498,414,45,2420,4869,6337,997,2,6,79,496,310,104
+InceptionV3,39,38,6,2184,199,236,4649,225,220,45,2420,4869,6872,462,1,5,12,224,194,26
+Resnet50V2,38,32,7,2194,289,226,4565,216,304,45,2420,4869,6797,537,2,5,12,214,284,20
+Xception,42,35,3,2162,188,258,4664,243,205,45,2420,4869,6868,466,2,1,17,241,187,18
+Concatinated-Old,40,16,5,2236,313,184,4548,181,321,45,2420,4869,6824,510,2,3,5,179,310,11
+Concatinated,44,36,1,2243,369,177,4479,163,390,45,2420,4869,6766,568,1,0,15,162,369,21
